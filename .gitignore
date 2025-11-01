@@ -1,0 +1,11 @@
+# Ignore Jupyter and data artifacts
+.ipynb_checkpoints/
+*.csv
+*.json
+*.parquet
+*.zip
+*.tar.gz
+*.h5
+*.db
+__pycache__/
+.DS_Store
