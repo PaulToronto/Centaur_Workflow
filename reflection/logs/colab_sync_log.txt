@@ -1,0 +1,21 @@
+[2025-11-13 14:28:42] Sync started.
+building file list ... done
+./
+dummy_test.ipynb
+outputs/
+outputs/blog_drafts/
+outputs/exports/
+outputs/figures/
+reflection/
+reflection/logs/
+reflection/reviews/
+
+sent 1042 bytes  received 90 bytes  754.67 bytes/sec
+total size is 706  speedup is 0.62
+[2025-11-13 14:28:42] Sync complete.
+[2025-11-13 14:43:27] Sync started.
+building file list ... done
+
+sent 242 bytes  received 20 bytes  524.00 bytes/sec
+total size is 706  speedup is 2.69
+[2025-11-13 14:43:27] Sync complete.

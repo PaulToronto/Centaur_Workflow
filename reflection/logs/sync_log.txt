@@ -1,0 +1,7 @@
+[2025-11-02_14-23-30] Drive path not found — sync aborted.
+[2025-11-02_14-28-28] Synced Reflection to /Users/paul/Google Drive/My Drive/Centaur_Outputs/Centaur_Workflow/reflection/
+[2025-11-02_14-28-28] Synced Outputs to /Users/paul/Google Drive/My Drive/Centaur_Outputs/Centaur_Workflow/outputs/
+[2025-11-02_14-47-25] Drive path not found — sync aborted.
+[2025-11-02_14-48-34] Synced Reflection to /Users/paul/Google Drive/My Drive/Colab Notebooks/Data Science/Projects/Centaur_Outputs/Centaur_Workflow/reflection/
+[2025-11-02_14-48-34] Synced Outputs to /Users/paul/Google Drive/My Drive/Colab Notebooks/Data Science/Projects/Centaur_Outputs/Centaur_Workflow/outputs/
+[2025-11-11 17:03:00] ✅ watch_workflow.sh verified and version-aligned at v1.1 (Smart Delay + Deduplication active)

@@ -1,0 +1,75 @@
+============================================================
+Notebook Pull Log — Centaur_Workflow
+Timestamp: 2025-11-15 15:58:04
+Source (Drive): /Users/paul/Library/CloudStorage/GoogleDrive-paulod.toronto@gmail.com/My Drive/Colab Notebooks/Data Science/Projects/Centaur_Workflow
+Destination (Local): /Users/paul/Projects/Centaur_Workflow/notebooks
+============================================================
+building file list ... done
+./
+dummy_test.ipynb
+outputs/
+outputs/blog_drafts/
+outputs/exports/
+outputs/figures/
+reflection/
+reflection/logs/
+reflection/reviews/
+
+sent 1.04K bytes  received 90 bytes  2.26K bytes/sec
+total size is 706  speedup is 0.62
+
+============================================================
+Notebook Pull Log — Centaur_Workflow
+Timestamp: 2025-11-15 16:02:43
+Source (Drive): /Users/paul/Library/CloudStorage/GoogleDrive-paulod.toronto@gmail.com/My Drive/Colab Notebooks/Data Science/Projects/Centaur_Workflow
+Destination (Local): /Users/paul/Projects/Centaur_Workflow/notebooks
+============================================================
+building file list ... done
+notebooks/
+notebooks/dummy_test.ipynb
+
+sent 1.04K bytes  received 48 bytes  2.18K bytes/sec
+total size is 710  speedup is 0.65
+
+============================================================
+Notebook Pull Log — Centaur_Workflow
+Timestamp: 2025-11-15 16:15:38
+Source (Drive): /Users/paul/Library/CloudStorage/GoogleDrive-paulod.toronto@gmail.com/My Drive/Colab Notebooks/Data Science/Projects/Centaur_Workflow
+Destination (Local): /Users/paul/Projects/Centaur_Workflow/notebooks
+============================================================
+building file list ... done
+./
+notebooks/
+notebooks/dummy_test.ipynb
+outputs/
+outputs/blog_drafts/
+outputs/exports/
+outputs/figures/
+reflection/
+reflection/logs/
+reflection/reviews/
+
+sent 1.09K bytes  received 96 bytes  2.37K bytes/sec
+total size is 710  speedup is 0.60
+
+============================================================
+Notebook Pull Log — Centaur_Workflow
+Timestamp: 2025-11-15 16:18:50
+Source (Drive): /Users/paul/Library/CloudStorage/GoogleDrive-paulod.toronto@gmail.com/My Drive/Colab Notebooks/Data Science/Projects/Centaur_Workflow
+Destination (Local): /Users/paul/Projects/Centaur_Workflow/notebooks
+============================================================
+building file list ... done
+./
+notebooks/
+notebooks/dummy_test.ipynb
+outputs/
+outputs/blog_drafts/
+outputs/exports/
+outputs/figures/
+reflection/
+reflection/logs/
+reflection/reviews/
+
+sent 1.09K bytes  received 96 bytes  2.37K bytes/sec
+total size is 710  speedup is 0.60
+
