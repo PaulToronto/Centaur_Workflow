@@ -1,9 +1,5 @@
 # Link Audit Report — Centaur_Workflow
-_Generated on 2025-11-16 18:53:44_
-
-• Checking processing/dummy_test.ipynb ...
-  ⚠ NBViewer link missing
-  ⚠ Colab link missing
+_Generated on 2025-11-17 13:47:14_
 
 • Checking README.md ...
   ⚠ NBViewer link missing
@@ -14,6 +10,10 @@ _Generated on 2025-11-16 18:53:44_
   ✔ Colab link found
 
 • Checking reflection/centaur_log.md ...
+  ⚠ NBViewer link missing
+  ⚠ Colab link missing
+
+• Checking reflection/quick_guide_centaur_projects.md ...
   ⚠ NBViewer link missing
   ⚠ Colab link missing
 
