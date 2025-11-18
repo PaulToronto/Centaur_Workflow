@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="figures/centaur_workflow.png" width="500" alt="Centaur Workflow">
+  <img src="figures/centaur_workflow.png" width="400" alt="Centaur Workflow Diagram">
 </p>
 
 # Centaur Workflow
