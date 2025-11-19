@@ -112,3 +112,9 @@ branch 'main' set up to track 'origin/main'.
 [2025-11-17 20:25:15] Checking if GitHub repo exists: PaulToronto/Centaur_Workflow
 [2025-11-17 20:25:15] GitHub repo already exists.
 [2025-11-17 20:25:15] Staging changes...
+[2025-11-17 20:25:15] Creating commit...
+[2025-11-17 20:25:15] Pushing to GitHub...
+To https://github.com/PaulToronto/Centaur_Workflow.git
+   7250d07..f3766f6  main -> main
+branch 'main' set up to track 'origin/main'.
+[2025-11-17 20:25:16] Push completed successfully.
